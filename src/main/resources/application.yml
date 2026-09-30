@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: spring-boot-spring-ai-rag
+  ai:
+    ollama:
+      base-url: http://localhost:11434
+      chat:
+        options:
+          model: llama3.2
+          temperature: 0.2
+      embedding:
+        options:
+          model: nomic-embed-text

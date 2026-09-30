@@ -1,0 +1,7 @@
+Expense policy
+
+Employees may claim meals up to 25 dollars per person without a receipt.
+Any meal above 25 dollars requires an itemized receipt.
+Flights must be booked in economy class unless the trip is longer than 8 hours.
+Expense reports are due within 14 days of the trip end date.
+The finance team pays approved reports on the next Friday.
